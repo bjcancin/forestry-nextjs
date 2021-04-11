@@ -1,4 +1,10 @@
 ---
 label: Chao
 hide_body: true
-fields: []
+fields:
+- name: texto
+  type: text
+  config:
+    required: false
+  label: Texto
+  description: Este va a ser el texto de la pagina
